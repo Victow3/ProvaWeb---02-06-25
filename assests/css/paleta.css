@@ -1,0 +1,23 @@
+.primary-color{
+    background-color: #0d6efd; height: 100px;
+}
+
+.secondary-color{
+    background-color: #198754; height: 100px;
+}
+
+.warning-color{
+    background-color: #ffc107; height: 100px;
+}
+
+.danger-color{
+    background-color: #dc3545; height: 100px;
+}
+
+.dark-background-color{
+    background-color: #212529; height: 100px;
+}
+
+.bright-background-color{
+    background-color: #f8f9fa; height: 100px;
+}

@@ -1,4 +1,4 @@
-.background-section{
+.background-section {
     flex-grow: 1;
     min-height: 100vh;
     display: flex;
@@ -7,8 +7,9 @@
     padding: 2rem 1rem;
 
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-                url(./background-sobre.jpg) center center / cover no-repeat;
-
+                url(/imagens/background-index.jpg) center center / cover no-repeat;
+    
+    background-attachment: fixed;
     color: white;
 }
 
