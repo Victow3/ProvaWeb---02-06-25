@@ -1,0 +1,15 @@
+.background-section{
+    flex-grow: 1;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 1rem;
+
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+                url(./background-sobre.jpg) center center / cover no-repeat;
+
+    color: white;
+}
+
+/* Estilização do background, centralizando a imagem escolhida e aplicando um leve sombreamento na mesma */
